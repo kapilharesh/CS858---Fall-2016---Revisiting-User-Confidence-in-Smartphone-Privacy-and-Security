@@ -1,5 +1,5 @@
-CS858 - Revisiting User Confidence in Smartphone Privacy and Security
-<br/>
-ABSTRACT
-<br/>
+## CS858 - Revisiting User Confidence in Smartphone Privacy and Security
+CS858 Course Paper - Fall 2016
+
+
 In 2012, a study by Chin et al. revealed that smartphone users do not feel confident at performing certain tasks such as ac- cessing financial information, health data, entering social se- curity number and providing other personal information on their smartphones. Participants in Chin’s study were mainly concerned about losing their smartphones, physical damage, data loss and (lack of) backup, and trusting applications. Both Apple and Google have introduced new technologies such as fingerprint and face detection for authentication, and Apple Pay and Android Pay for contactless payments. In this study we re-evaluate user confidence in smartphone privacy and se- curity, and investigate whether recommendations put forward by Chin et al. have been applied in real life. We conducted a user study with 33 respondents, where we got users to com- plete a survey that allowed us to learn more about how our users used their devices, the factors they take into account when getting apps, the confidence that their privacy and se- curity is maintained when they are doing various activities on their smartphone, what other concerns they had with regards to their smartphone, and if they felt the solutions provided in the original paper were implemented and effective in improv- ing user confidence in smartphone privacy and security. We then compared our data with the data presented in the orig- inal paper to identify the differences (improvements or oth- erwise), as well as similar trends in the data. Our findings allow us to present a more up to date picture of the current landscape of smartphone privacy and security from the user’s point of view.
